@@ -11,6 +11,5 @@ Firebase based messenger app in android
 ![chat log](https://user-images.githubusercontent.com/71609080/115955124-d4754d00-a4c2-11eb-9261-428afbdae924.PNG)
 ![LoginScreen](https://user-images.githubusercontent.com/71609080/115955125-d50de380-a4c2-11eb-9013-9917dec9018b.PNG)
 ![registration_screen](https://user-images.githubusercontent.com/71609080/115955126-d50de380-a4c2-11eb-946d-756259b23a17.PNG)
-![Capture](https://user-images.githubusercontent.com/71609080/115955127-d50de380-a4c2-11eb-8e47-5961f9c915e4.PNG)
 
 
