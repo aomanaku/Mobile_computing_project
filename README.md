@@ -3,7 +3,7 @@
 Firebase based messenger app in android
 
 # The app allows to chat with all its user
- the app uses googles Firebase database for storage , autnentication and Realtime database storage 
+ the app uses googles Firebase database
 
  the app has a login page, registration page , Chat log of different user and latest message showing latest message from its users 
 
